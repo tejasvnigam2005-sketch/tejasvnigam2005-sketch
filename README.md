@@ -1,5 +1,5 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--   GATE BREAK ⟋ PLAYER: TEJAS NIGAM ⟋ RANK: A+ ⟋ AWAKENED    -->
+<!--   GATE BREAK ⟋ PLAYER: TEJASV NIGAM ⟋ RANK: A+ ⟋ AWAKENED    -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
