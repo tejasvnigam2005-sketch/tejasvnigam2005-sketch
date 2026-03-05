@@ -196,17 +196,6 @@ STATUS      :  ⚡ AWAKENED — 50+ AI tools. Still counting.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasvnigam2005-sketch&bg_color=050510&color=69F0AE&line=FFD740&point=FF1744&area=true&area_color=69F0AE10&hide_border=true&custom_title=COMMIT%20TRAIL%20%2F%2F%20DEPLOYMENT%20HISTORY" width="100%"/>
 
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasvnigam2005-sketch/tejasvnigam2005-sketch/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tejasvnigam2005-sketch/tejasvnigam2005-sketch/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
-</div>
-
-<br>
-
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
