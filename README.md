@@ -31,7 +31,7 @@
 ### `> entity.profile`
 
 ```yaml
-NAME        :  Tejas Nigam
+NAME        :  Tejasv Nigam
 RANK        :  A+-CLASS  [Ascending to S]
 TITLE       :  Vibe Coder · GenAI Builder · Full Stack Dev
 GUILD       :  Currently Unaffiliated   [SOLO PLAYER]
